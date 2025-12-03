@@ -29,7 +29,6 @@
     Wi-Fi native (Airportwtlm)
 
 Not Working
-
     - tell me
 
 https://www.mediafire.com/file/4b3celn4t5c0iag/EFI.zip/file
