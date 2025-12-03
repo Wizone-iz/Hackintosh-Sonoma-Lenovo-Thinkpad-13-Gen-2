@@ -11,9 +11,9 @@
     Wireless LAN : Intel 8260 / 8265 (requires AirportItlwm)
     Ethernet : Not available (ThinkPad 13 Gen 2 has no LAN port)
     Bootloader : OpenCore 1.0.6
-    OS Version : macOS Sequoia
-    What's Working
+    OS Version : macOS Sonoma
 
+    What's Working:
     Intel HD Graphics 620 with full acceleration
     Audio (Realtek ALC256)
     Bluetooth
@@ -26,7 +26,7 @@
     HDMI out
     SSD (NVMe / SATA)
     All sensors (with SMC kexts)
-    Wi-Fi (using AirportItlwm + HeliPort)
+    Wi-Fi native (Airportwtlm)
 
 Not Working
 
