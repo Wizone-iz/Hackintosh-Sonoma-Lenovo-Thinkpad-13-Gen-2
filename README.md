@@ -1,0 +1,1 @@
+# Hackintosh-Sonoma-Lenovo-Thinkpad-13-Gen-2
